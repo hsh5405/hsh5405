@@ -2,11 +2,11 @@
 <div align="center">
   
   <!-- 여기에 커버 GIF 넣기 -->
-  <img src="https://your-cool-gif-url-here.gif" width="480" alt="coding-gif" />
+  <img src="https://tenor.com/ko/view/%D0%B1%D0%B0%D0%BD%D0%BD%D0%B5%D1%80-gif-738217998359236596" width="480" alt="coding-gif" />
   
-  <h1>Hi, I'm YOUR_NAME 👋</h1>
+  <h1>I'm hsh5405.</h1>
   <p>
-    AI/ML · Quant Finance · GPU Architecture  
+    AI/ML · Quant Finance · Computer Architecture  
   </p>
 
   <!-- 방문자 수 / 팔로워 등 배지 예시 -->
