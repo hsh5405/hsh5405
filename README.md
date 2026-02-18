@@ -2,7 +2,7 @@
 <div align="center">
   
   <!-- 여기에 커버 GIF 넣기 -->
-  <img src="https://tenor.com/ko/view/%D0%B1%D0%B0%D0%BD%D0%BD%D0%B5%D1%80-gif-738217998359236596" width="480" alt="coding-gif" />
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTZjMDliOTUyMmdsaHhyejR3ODdmbDJqcWd0cTlwYTQ4bW5sOXZmeWc1bW1rZzdveiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rzeWnbH8Uc5Y4/giphy.gif" width="480" alt="coding-gif" />
   
   <h1>I'm hsh5405.</h1>
   <p>
