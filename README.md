@@ -1,70 +1,54 @@
-<!-- 헤더 & GIF 영역 -->
 <div align="center">
-  
-  <!-- 여기에 커버 GIF 넣기 -->
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTZjMDliOTUyMmdsaHhyejR3ODdmbDJqcWd0cTlwYTQ4bW5sOXZmeWc1bW1rZzdveiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rzeWnbH8Uc5Y4/giphy.gif" width="480" alt="coding-gif" />
-  
-  <h1>I'm hsh5405.</h1>
-  <p>
-    AI/ML · Quant Finance · Computer Architecture  
-  </p>
 
-  <!-- 방문자 수 / 팔로워 등 배지 예시 -->
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_ID&style=for-the-badge&color=blue" alt="profile views" />
-    <a href="https://github.com/YOUR_GITHUB_ID?tab=followers">
-      <img src="https://img.shields.io/github/followers/YOUR_GITHUB_ID?label=Followers&style=for-the-badge" alt="followers" />
-    </a>
-  </p>
+<img src="https://media2.giphy.com/media/v1.Y2lkPTZjMDliOTUyMmdsaHhyejR3ODdmbDJqcWd0cTlwYTQ4bW5sOXZmeWc1bW1rZzdveiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rzeWnbH8Uc5Y4/giphy.gif" width="100%" alt="banner" />
+
+<h2>Hi, I'm hsh5405.</h2>
+<p>AI · Quant · GPU  —  building things that matter at the edge of hardware and intelligence</p>
+
 </div>
 
 ---
 
-## 🚀 Main Repositories
+## 📁 Projects
 
-- 🔭 [repo-quant-trading](https://github.com/YOUR_GITHUB_ID/repo-quant-trading) · 탄탄한 리스크 관리 갖춘 시스템 트레이딩 엔진  
-- 🧠 [repo-time-series-forecast](https://github.com/YOUR_GITHUB_ID/repo-time-series-forecast) · 시계열 예측용 deep learning 파이프라인  
-- ⚙️ [repo-gpu-kernel-lab](https://github.com/YOUR_GITHUB_ID/repo-gpu-kernel-lab) · CUDA / GPU 아키텍처 실험용 레포  
-- 🧬 [repo-ml-research](https://github.com/YOUR_GITHUB_ID/repo-ml-research) · 논문 구현 & 실험 노트  
+| Repo | Description |
+|------|-------------|
+| [📌 repo-name](https://github.com/YOU/repo) | <!-- 한 줄 설명 --> |
+| [📌 repo-name](https://github.com/YOU/repo) | <!-- 한 줄 설명 --> |
 
 ---
 
-## 🧩 Languages I Use
+## 🧬 Languages
 
 <p>
-  <!-- Python, C, C++, Rust, Julia, Q# / 양자 언어 등 -->
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
-  <img src="https://img.shields.io/badge/Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white" />
-  <img src="https://img.shields.io/badge/Q%23-512BD4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00427E?style=flat-square&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Julia-9558B2?style=flat-square&logo=julia&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Q%23-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white"/>
 </p>
 
 ---
 
-## 🛠 Tools & Frameworks
+## ⚙️ Frameworks & Tools
 
 <p>
-  <!-- DL / 수치 / 데이터 -->
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-
-  <!-- MLOps / 실험관리 (원하면 수정) -->
-  <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/WandB-FFBE00?style=for-the-badge&logo=weightsandbiases&logoColor=000000" />
-
-  <!-- Infra & 기타 -->
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/NVIDIA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=000000" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white"/>
+  <img src="https://img.shields.io/badge/W%26B-FFBE00?style=flat-square&logo=weightsandbiases&logoColor=000"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=000"/>
 </p>
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_ID&show_icons=true&theme
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_ID&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_ID&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+</div>
