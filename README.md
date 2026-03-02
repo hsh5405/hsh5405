@@ -1,6 +1,15 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/cfd86a69-8066-49c6-a863-00ec6ccedd9a" width="49.7%" alt="banner" />
-  <img src="https://github.com/user-attachments/assets/a3d153c8-7919-4e96-b17a-5c3fef6913d4" width="49.7%" alt="banner" />
+  <table width="60%" cellpadding="0" cellspacing="0" style="border:none;">
+    <tr>
+      <td width="50%" style="padding:0; border:none;">
+        <img src="https://github.com/user-attachments/assets/a3d153c8-7919-4e96-b17a-5c3fef6913d4" width="100%" alt="banner" style="display:block;" />
+      </td>
+      <td width="50%" style="padding:0; border:none;">
+        <img src="https://github.com/user-attachments/assets/cfd86a69-8066-49c6-a863-00ec6ccedd9a" width="100%" alt="banner" style="display:block;" />
+      </td>
+    </tr>
+  </table>
+
   <h2>Hi, I'm hsh5405.</h2>
   <p>hardware and intelligence</p>
 </div>
