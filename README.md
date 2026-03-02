@@ -1,11 +1,10 @@
 <div align="center">
-
-<img src="https://media2.giphy.com/media/v1.Y2lkPTZjMDliOTUyMmdsaHhyejR3ODdmbDJqcWd0cTlwYTQ4bW5sOXZmeWc1bW1rZzdveiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rzeWnbH8Uc5Y4/giphy.gif" width="100%" alt="banner" />
-
-<h2>Hi, I'm hsh5405.</h2>
-<p>AI · Quant · GPU  —  building things that matter at the edge of hardware and intelligence</p>
-
+  <img src="https://github.com/user-attachments/assets/cfd86a69-8066-49c6-a863-00ec6ccedd9a" width="49.7%" alt="banner" />
+  <img src="https://github.com/user-attachments/assets/a3d153c8-7919-4e96-b17a-5c3fef6913d4" width="49.7%" alt="banner" />
+  <h2>Hi, I'm hsh5405.</h2>
+  <p>hardware and intelligence</p>
 </div>
+
 
 ---
 
@@ -14,11 +13,11 @@
 | Repo | Description |
 |------|-------------|
 | [📌 repo-name](https://github.com/YOU/repo) | <!-- 한 줄 설명 --> |
-| [📌 repo-name](https://github.com/YOU/repo) | <!-- 한 줄 설명 --> |
+
 
 ---
 
-## 🧬 Languages
+## Languages
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
@@ -31,7 +30,7 @@
 
 ---
 
-## ⚙️ Frameworks & Tools
+## Frameworks & Tools
 
 <p>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
