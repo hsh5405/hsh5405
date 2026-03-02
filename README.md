@@ -22,6 +22,7 @@
 | Repo | Description |
 |------|-------------|
 | [📌 qhackathon-2023](https://github.com/dogemie/qhackathon-2023) | Quantum Computing Hackathon 2023 |
+| [📌 Rust_Minecraft](https://github.com/hsh5405/Rust_Minecraft) | Minecraft implementation in Rust |
 
 ---
 
