@@ -21,8 +21,7 @@
 
 | Repo | Description |
 |------|-------------|
-| [📌 qhackathon-2023]([https://github.com/dogemie/qhackathon-2023) | Quantum Computing Hackathon 2023 |
-
+| [📌 qhackathon-2023](https://github.com/dogemie/qhackathon-2023) | Quantum Computing Hackathon 2023 |
 
 ---
 
