@@ -21,7 +21,7 @@
 
 | Repo | Description |
 |------|-------------|
-| [📌 repo-name](https://github.com/YOU/repo) | <!-- 한 줄 설명 --> |
+| [📌 qhackathon-2023]([https://github.com/dogemie/qhackathon-2023) | Quantum Computing Hackathon 2023 |
 
 
 ---
