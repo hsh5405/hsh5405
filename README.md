@@ -11,7 +11,7 @@
   </table>
 
   <h2>Nice to meet you.</h2>
-  <p>hardware and intelligence</p>
+  <p>A.I. & +etc.</p>
 </div>
 
 
