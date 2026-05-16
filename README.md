@@ -10,7 +10,7 @@
     </tr>
   </table>
 
-  <h2>Hi, I'm hsh5405.</h2>
+  <h2>Nice to meet you.</h2>
   <p>hardware and intelligence</p>
 </div>
 
